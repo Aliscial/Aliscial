@@ -1,7 +1,7 @@
  Hi, I’m @Aliscial. I’m interested in Front End Development.
  I’m currently learning Javascript, Css, Bootstrap, React etc. I'm also learning special career tactics to utilize in the work field. 
  I’m looking to collaborate on some exciting creative projects in the future.
-You can reach me via email on Linkedin or Facebook. 
+You can reach me via LinkedIn or Facebook. 
 
 <!---
 Aliscial/Aliscial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
